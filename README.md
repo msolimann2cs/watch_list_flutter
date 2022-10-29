@@ -1,16 +1,26 @@
-# watch_list_flutter
+# Watch List Project
 
-A new Flutter project.
+A Flutter project to keep track of your favorite shows in once place.
 
-## Getting Started
+![image](https://user-images.githubusercontent.com/107307793/198844655-fc091a34-bf8d-479a-b269-22b814fcf73b.png)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Implemented Functionalities:
+- Creating Shows
+- Deleting Shows
+- Editing Shows
+- Easy UX
+- Decent UI
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Need to be add:
+- Database functionality
+- Show Image Picker
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Nice to have:
+- New UI
+
+Possible future plans:
+- Accounts system
+- Admin Panel
+- Social Media
+
